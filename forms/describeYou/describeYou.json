@@ -27,6 +27,15 @@
         "Elements", 
         "rdoPersonType.json"
       ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "describeYou", 
+        "Elements", 
+        "btnFavExcercises.json"
+      ]
     }
   ], 
   "class": "", 

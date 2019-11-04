@@ -16,7 +16,16 @@
         "forms", 
         "favFoods", 
         "Elements", 
-        "Listgroup1.json"
+        "lstGroup.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "favFoods", 
+        "Elements", 
+        "btnDessertVoting.json"
       ]
     }
   ], 
@@ -34,7 +43,7 @@
   "onhide": "", 
   "onkeypress": "", 
   "onresize": "", 
-  "onshow": "", 
+  "onshow": "favFoods.onshow()", 
   "openMode": "none", 
   "parentForm": "", 
   "position": "absolute", 
